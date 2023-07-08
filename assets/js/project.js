@@ -11,7 +11,7 @@ const projects = [
     description: "The project aims to create a Recipe App using React.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://my-recipe-solution.netlify.app",
-    Githublink: "https://github.com/KerimGurbaz/recipe-solution",
+    Githublink: "https://github.com/muslumhanozturk/recipe-solution",
   },
   {
     title: "Monsters Rolodex",
@@ -19,7 +19,7 @@ const projects = [
     description: "A React-App complete with API and search box. Access the React App here:",
     // tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://monstersrolodex-project.netlify.app",
-    Githublink: "https://github.com/KerimGurbaz/monsters-rolodex",
+    Githublink: "https://github.com/muslumhanozturk/monsters-rolodex",
   },
   {
     title: "Our Tours",
@@ -27,7 +27,7 @@ const projects = [
     description: "This Project built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://our-tour-projectt.netlify.app",
-    Githublink: "https://github.com/KerimGurbaz/our-tours-react",
+    Githublink: "https://github.com/muslumhanozturk/our-tours-react",
   },
   {
     title: "Hexadecimal Colors",
@@ -35,7 +35,7 @@ const projects = [
     description: "This Project built using React.js",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "https://hexadecimal-colors.netlify.app",
-    Githublink: "https://github.com/KerimGurbaz/hexdecimal-colors-react",
+    Githublink: "https://github.com/muslumhanozturk/hexdecimal-colors-react",
   },
   
   {
@@ -44,7 +44,7 @@ const projects = [
     description: "Axios and dom manipulation were used in this project",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "https://hexadecimal-colors.netlify.app",
-    Githublink: "https://github.com/KerimGurbaz/hexdecimal-colors-react",
+    Githublink: "https://github.com/muslumhanozturk/hexdecimal-colors-react",
   },
   {
     title: "Accordion App",
@@ -53,7 +53,7 @@ const projects = [
       "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://accordion-projects-react.netlify.app",
-    Githublink: "https://github.com/KerimGurbaz/accordion-project",
+    Githublink: "https://github.com/muslumhanozturk/accordion-project",
   },
   {
     title: "Languages Card",
@@ -61,7 +61,7 @@ const projects = [
     description: "Personal book library app built using JavaScript.",
   
     Previewlink: "https://languages-cardss.netlify.app",
-    Githublink: "https://github.com/KerimGurbaz/languages-card",
+    Githublink: "https://github.com/muslumhanozturk/languages-card",
   },
   {
     title: "Expenses chart component",
@@ -70,8 +70,8 @@ const projects = [
       "I used HTML, CSS and JavaScript well in this project.",
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
-    Previewlink: "https://kerimgurbaz.github.io/expenses-chart-component-main/",
-    Githublink: "https://github.com/KerimGurbaz/expenses-chart-component-main",
+    Previewlink: "https://muslumhanozturk.github.io/expenses-chart-component-main/",
+    Githublink: "https://github.com/muslumhanozturk/expenses-chart-component-main",
   },
   {
     title: "Digital Clock",
@@ -79,8 +79,8 @@ const projects = [
     description: "Digital Clock using JavaScript.",
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
-    Previewlink: "https://kerimgurbaz.github.io/digitalClock/",
-    Githublink: "https://github.com/KerimGurbaz/digitalClock",
+    Previewlink: "https://muslumhanozturk.github.io/digitalClock/",
+    Githublink: "https://github.com/muslumhanozturk/digitalClock",
   },
   {
     title: "Weather App",
@@ -88,8 +88,8 @@ const projects = [
     description: "Built using Tensorflow.",
     tagimg:
       "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
-    Previewlink: "https://kerimgurbaz.github.io/weather-app/",
-    Githublink: "https://github.com/KerimGurbaz/weather-app",
+    Previewlink: "https://muslumhanozturk.github.io/weather-app/",
+    Githublink: "https://github.com/muslumhanozturk/weather-app",
   },
   {
     title: "Calculator- JS",
@@ -98,7 +98,7 @@ const projects = [
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "",
-    Githublink: "https://github.com/KerimGurbaz/Calculator-JS",
+    Githublink: "https://github.com/muslumhanozturk/Calculator-JS",
   },
   {
     title: "TO-DO LIST",
@@ -106,8 +106,8 @@ const projects = [
     description: "Built using JS.",
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
-    Previewlink: "https://kerimgurbaz.github.io/Todo-List/",
-    Githublink: "https://github.com/KerimGurbaz/Todo-List",
+    Previewlink: "https://muslumhanozturk.github.io/Todo-List/",
+    Githublink: "https://github.com/muslumhanozturk/Todo-List",
   },
 ];
 
