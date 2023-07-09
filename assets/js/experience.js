@@ -12,11 +12,18 @@ const exp = [
   //   desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
   // },
   {
-    title: "Student Developer",
+    title: "Intern AWS Cloud Architect / DevOps Engineer",
     cardImage: "assets/images/experience-page/clarusway.png",
-    place: "Google Summer Of Code",
+    place: "",
     time: "(Mar - Dec, 2022)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Implemented container-based application deployment using Docker and Kubernetes.</li><li>Managed CI/CD processes using Git-GitHub, Jenkins, and Linux.</li><li>Utilized Terraform for infrastructure management and Ansible for configuration management.</li>",
+  },
+  {
+    title: "IT System and Network Administrator",
+    cardImage: "assets/images/experience-page/smartpro-logo.png",
+    place: "",
+    time: "(Sept 2022 - Feb 2023)",
+    desp: "<li>Proficient in Windows and Linux server installation, configuration, and maintenance.</li><li>Experienced in diagnosing and resolving network issues.</li><li>Efficiently managed resources through virtualization technologies like VMware and Hyper-V.</li><li>Knowledgeable in Active Directory, Group Policy, and implementing effective security measures.</li>",
   },
   // {
   //   title: "Research Intern",
@@ -93,24 +100,24 @@ const volunteershipcards = [
   // },
 ];
 
-const showCards = () => {
-  let output = "";
-  volunteershipcards.forEach(
-    ({ title, cardImage, description }) =>
-      (output += `        
-      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
+// const showCards = () => {
+//   let output = "";
+//   volunteershipcards.forEach(
+//     ({ title, cardImage, description }) =>
+//       (output += `        
+//       <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
       
-      <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
-      <div class="content">
-          <h2 class="volunteerTitle">${title}</h2><br>
-          <p class="copy">${description}</p></div>
+//       <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
+//       <div class="content">
+//           <h2 class="volunteerTitle">${title}</h2><br>
+//           <p class="copy">${description}</p></div>
       
-      </div>
-      `)
-  );
-  volunteership.innerHTML = output;
-};
-document.addEventListener("DOMContentLoaded", showCards);
+//       </div>
+//       `)
+//   );
+//   volunteership.innerHTML = output;
+// };
+// document.addEventListener("DOMContentLoaded", showCards);
 
 // // Hackathon Section
 

@@ -2,37 +2,37 @@ AOS.init();
 
 // MOOCs Cards
 
-const moocs = document.querySelector(".moocs");
-const moocscards = [
-  {
-    title: "Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/complete-react-developer-zero-to-mastery/",
-  },
-  {
-    title: "Python",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/python",
-  },
-  {
-    title: "(40+ Hours) Python | Advanced Programming from Zero (2020)",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/",
-  },
+// const moocs = document.querySelector(".moocs");
+// const moocscards = [
+//   {
+//     title: "Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)",
+//     cardImage: "assets/images/education-page/udemy.svg",
+//     moocLink: "https://www.udemy.com/course/complete-react-developer-zero-to-mastery/",
+//   },
+//   {
+//     title: "Python",
+//     cardImage: "assets/images/education-page/coursera2.svg",
+//     moocLink: "https://www.coursera.org/learn/python",
+//   },
+//   {
+//     title: "(40+ Hours) Python | Advanced Programming from Zero (2020)",
+//     cardImage: "assets/images/education-page/udemy.svg",
+//     moocLink: "https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/",
+//   },
  
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
- ,
-  {
-    title: "JavaScript - An Introduction to JavaScript Programming from Scratch",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink:
-      "https://www.udemy.com/course/javascript-temelden-profesyonele-kurs-1/learn/lecture/32722700#overview",
-  },
-];
+//   {
+//     title: "Javascript",
+//     cardImage: "assets/images/education-page/udacity.svg",
+//     moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+//   },
+//  ,
+//   {
+//     title: "JavaScript - An Introduction to JavaScript Programming from Scratch",
+//     cardImage: "assets/images/education-page/udemy.svg",
+//     moocLink:
+//       "https://www.udemy.com/course/javascript-temelden-profesyonele-kurs-1/learn/lecture/32722700#overview",
+//   },
+// ];
 
 const experience = [
   {
