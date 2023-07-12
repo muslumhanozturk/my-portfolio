@@ -1,5 +1,3 @@
-# my-portfolio
-
 [Click Me..!](https://muslumhanozturk.github.io/my-portfolio/)
 
 
